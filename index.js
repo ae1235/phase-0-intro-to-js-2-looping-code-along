@@ -2,7 +2,7 @@ const gifts = ['teddy bear', 'drone', 'doll'];
 
 function wrapGifts(gift){
     for(let i = 0; i < gifts.length; i++) {
-        console.log(`Wrapped ${gitfs[i]} and added a bowl`);
+        console.log(`Wrapped ${gifts[i]} and added a bowl`);
         debugger;
     }
 
